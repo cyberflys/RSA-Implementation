@@ -8,7 +8,7 @@ My implementation of RSA algorithm
 
 
 <h1>Test this crap?</h1>
-<br> Run with : python3 rsa.py -e {string} </br>
-<br> if you run it like this , it will encrypt that string and make private and public keys.</br>
-<br> Run with : python3 rsa.py -d {string}  {private key} </br>
-<br> if you run it like this , it will decrypt the string using private key and print it.</br>
+<br>a) Run with : python3 rsa.py -e {string} </br>
+<br>        if you run it like this , it will encrypt that string and make private and public keys.</br>
+<br> b) Run with : python3 rsa.py -d {string}  {private key} </br>
+<br>        if you run it like this , it will decrypt the string using private key and print it.</br>
